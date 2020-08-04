@@ -4,3 +4,6 @@
 ### Hi there 👋
 
 I'm Kauê Gibelli and I'm studying HTML, CSS and Javascript. 
+
+- 🧭 I’m working on becoming a web developer
+- 📖 I’m currently learning front-end technologies
